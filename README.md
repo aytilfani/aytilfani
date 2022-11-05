@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-I'm Aymen, Computer science student interested in software engineering and data science with experience in web dev, using technologies such as Flask and react, and I'm an open source enthusiast.
+I'm Aymen, Computer science student interested in software engineering and data science/engineering with experience in web dev, using technologies such as Flask and react, and I'm an open source enthusiast.
 
 **Contact Info**
 
